@@ -15,6 +15,7 @@ Given a list:
 Determine whether the list is sorted or not.
 
 ✅ Code
+
 numbers = [1, 2, 3, 4]
 
 if numbers == sorted(numbers):
@@ -41,6 +42,7 @@ sorted() function
 Conditional statements
 
 🎯 Example Output
+
 List is sorted
 
 🚀 Use Cases
