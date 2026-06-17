@@ -48,11 +48,8 @@ List is sorted
 🚀 Use Cases
 
 Interview preparation
-
 Data validation
-
 Beginner Python practice
-
 Checking data before processing
 
 🔧 Possible Improvements
