@@ -62,7 +62,6 @@ Check for descending order
 Avoid using sorted() (manual logic)
 
 Convert into a function
-
 Add user input support
 
 👨‍💻 Author
